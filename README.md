@@ -13,36 +13,45 @@ Organizer: StrongDM
 
 ## Links:
 
-https://rebrand.ly/asicsdigital
+### ASICS Digital
+- https://rebrand.ly/asicsdigital
 
-https://rebrand.ly/12factor
+### 12 Factor App
+- https://rebrand.ly/12factor
 
-https://rebrand.ly/tf-ecs-cluster
-https://rebrand.ly/tf-ecs-service
+### ECS Cluster and ECS Service Terraform modules
+- https://rebrand.ly/tf-ecs-cluster
+- https://rebrand.ly/tf-ecs-service
 
-https://rebrand.ly/tf-spike-spine (Spike/Spine model)
-https://rebrand.ly/charity-tf (Charity Majors on Terraform)
-https://rebrand.ly/monospike (New pattern for combined application & terraform code in one repo)
 
-https://rebrand.ly/mergescript (Script to skip across ff-merge commits)
+### Spine/Spike model, and Terraform patterns
+- https://rebrand.ly/tf-spike-spine (Spike/Spine model)
+- https://rebrand.ly/charity-tf (Charity Majors on Terraform)
 
-https://rebrand.ly/tf-consul
-https://rebrand.ly/tf-vault
-https://rebrand.ly/consul-ecs-workshop
+### New Monospike pattern
+- https://rebrand.ly/monospike
 
-https://rebrand.ly/monospike
+### Script to skip across ff merge commits
+- https://rebrand.ly/mergescript
 
-https://rebrand.ly/wohlner-srecon
-https://rebrand.ly/stratton-product
+### Terraform modules for consul and vault on ECS
+- https://rebrand.ly/tf-consul
+- https://rebrand.ly/tf-vault
 
-https://rebrand.ly/june19 (This page!)
+### Consul/Vault on ECS Workshop from DevOpsDays Boston
+- https://rebrand.ly/consul-ecs-workshop
+
+### Product Management for Infrastructure
+- https://rebrand.ly/wohlner-srecon
+- https://rebrand.ly/stratton-product
+
 
 ## Additional links
 
-https://rebrand.ly/vault-iam-auth
+### Vault IAM Auth
+- https://rebrand.ly/vault-iam-auth
 
 ## Sources
 
-Gitgraph.js https://rebrand.ly/gitgraph
-
-
+### Gitgraph.js
+- https://rebrand.ly/gitgraph
