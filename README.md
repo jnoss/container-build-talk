@@ -55,3 +55,12 @@ Organizer: StrongDM
 
 ### Gitgraph.js
 - https://rebrand.ly/gitgraph
+
+- To regenerate git graphs, run
+
+```
+npm i
+npm start
+```
+
+For more information see https://rebrand.ly/gitgraph-js
